@@ -1,0 +1,25 @@
+# ===== TaskFlow .gitignore =====
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sensitive config (contains real DB password)
+config/database.php
+
+# Temporary files
+*.tmp
+*.log
+create_admin.php
+
+# Gemini AI agent files
+.gemini/
+.agents/
