@@ -166,14 +166,4 @@ Navigate to: [http://localhost:8080](http://localhost:8080)
 | Fonts | Google Fonts (Inter) |
 | Icons | Emoji-based (no external library) |
 
----
 
-## 📸 Screenshots
-
-*Coming soon*
-
----
-
-## 📝 License
-
-This project is open source and available for educational purposes.
